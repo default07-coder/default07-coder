@@ -60,12 +60,24 @@ Always learning. Always testing. Always improving.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| [Scanner.py](https://github.com/default07-coder/scanner.py) | Security scanning project |
-| [Bug Bounty Tracker](https://github.com/default07-coder/bugbounty-tracker) | Bug bounty tracking project |
+<div align="center">
+
+### 🔍 Scanner.py
+
+Security scanning and vulnerability assessment.
+
+[Explore Repository](https://github.com/default07-coder/scanner.py)
+
+### 🐛 Bug Bounty Tracker
+
+Track vulnerability research and bug bounty activities.
+
+[Explore Repository](https://github.com/default07-coder/bugbounty-tracker)
+
+</div>
 
 
 ## GitHub Statistics
