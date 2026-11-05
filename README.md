@@ -118,27 +118,22 @@ Track vulnerability research and bug bounty activities.
 </div>
 
 
-## `> Development Philosophy`
 
-```javascript
 const developer = {
-    username: "DEFAULT07-CODER",
-    interests: [
-        "Web Development",
-        "Cybersecurity",
-        "Bug Bounty",
-        "Open Source"
-    ],
+  username: "DEFAULT07-CODER",
+  role: "Full-Stack Developer & Security Enthusiast",
+  location: "Tunisia 🇹🇳",
 
-    mindset: "Learn. Build. Test. Improve.",
+  frontend: ["React", "JavaScript", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "Python"],
+  databases: ["MongoDB", "PocketBase"],
 
-    principles: [
-        "Write clean code",
-        "Build secure applications",
-        "Never stop learning"
-    ]
+  security: ["Web Security", "Bug Bounty", "OWASP"],
+
+  mission: "Build modern, secure web applications.",
+  mindset: "Learn. Build. Secure. Repeat."
 };
-```
+
 
 ---
 
