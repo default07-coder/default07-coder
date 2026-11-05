@@ -117,24 +117,6 @@ Track vulnerability research and bug bounty activities.
 
 </div>
 
-
-
-const developer = {
-  username: "DEFAULT07-CODER",
-  role: "Full-Stack Developer & Security Enthusiast",
-  location: "Tunisia 🇹🇳",
-
-  frontend: ["React", "JavaScript", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "Python"],
-  databases: ["MongoDB", "PocketBase"],
-
-  security: ["Web Security", "Bug Bounty", "OWASP"],
-
-  mission: "Build modern, secure web applications.",
-  mindset: "Learn. Build. Secure. Repeat."
-};
-
-
 ---
 
 ## `> Let's Connect`
