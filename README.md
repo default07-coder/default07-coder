@@ -67,17 +67,29 @@ Always learning. Always testing. Always improving.
 | [Scanner.py](https://github.com/default07-coder/scanner.py) | Security scanning project |
 | [Bug Bounty Tracker](https://github.com/default07-coder/bugbounty-tracker) | Bug bounty tracking project |
 
+
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=default07-coder&show_icons=true&theme=dark&hide_border=true&title_color=ff3030&icon_color=ff3030&count_private=true" />
+![GitHub Followers](https://img.shields.io/github/followers/default07-coder?style=for-the-badge&color=ff3030&label=FOLLOWERS)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=default07-coder&layout=compact&theme=dark&hide_border=true&title_color=ff3030" />
+![Repository Stars](https://img.shields.io/github/stars/default07-coder/default07-coder?style=for-the-badge&color=ff3030&label=STARS)
 
-<img width="95%" src="https://streak-stats.demolab.com?user=default07-coder&theme=dark&hide_border=true&ring=ff3030&fire=ff3030&currStreakLabel=ff3030" />
+![Last Commit](https://img.shields.io/github/last-commit/default07-coder/default07-coder?style=for-the-badge&color=ff3030&label=LAST%20UPDATE)
+
+<img width="95%" src="https://streak-stats.demolab.com?user=default07-coder&theme=dark&hide_border=true&ring=ff3030&fire=ff3030&currStreakLabel=ff3030" alt="GitHub Streak"/>
 
 </div>
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/default07-coder/default07-coder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
 
 ## Contribution Activity
 
