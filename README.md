@@ -101,6 +101,78 @@ Track vulnerability research and bug bounty activities.
 
 <div align="center">
 
+
+---
+
+## `</> Currently Working On`
+
+<div align="center">
+
+| Project | Focus | Status |
+|:---|:---|:---|
+| Web Applications | Full-Stack Development | 🚀 Learning |
+| Security Scanner | Vulnerability Assessment | 🔬 Research |
+| REST APIs | Backend Development | ⚡ Building |
+| Web Security | Penetration Testing | 🔐 Exploring |
+
+</div>
+
+
+## `> Development Philosophy`
+
+```javascript
+const developer = {
+    username: "DEFAULT07-CODER",
+    interests: [
+        "Web Development",
+        "Cybersecurity",
+        "Bug Bounty",
+        "Open Source"
+    ],
+
+    mindset: "Learn. Build. Test. Improve.",
+
+    principles: [
+        "Write clean code",
+        "Build secure applications",
+        "Never stop learning"
+    ]
+};
+```
+
+---
+
+## `> Let's Connect`
+
+<div align="center">
+
+<a href="https://github.com/default07-coder">
+<img src="https://img.shields.io/badge/GitHub-DEFAULT07--CODER-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/2ayen_7/">
+<img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/>
+
+**Open to learning, collaboration and interesting projects.**
+
+</div>
+
+---
+
+<div align="center">
+
+`"Trust Nothing. Verify Everything."`
+
+**DEFAULT07-CODER**
+
+*Building the Web. Exploring Security.*
+
+</div>
+
+
 ### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
